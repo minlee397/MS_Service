@@ -1,0 +1,14 @@
+/home/minlee397/Desktop/QL_DT/bin/Debug/netcoreapp2.1/QL_DT.deps.json
+/home/minlee397/Desktop/QL_DT/bin/Debug/netcoreapp2.1/QL_DT.runtimeconfig.json
+/home/minlee397/Desktop/QL_DT/bin/Debug/netcoreapp2.1/QL_DT.runtimeconfig.dev.json
+/home/minlee397/Desktop/QL_DT/bin/Debug/netcoreapp2.1/QL_DT.dll
+/home/minlee397/Desktop/QL_DT/bin/Debug/netcoreapp2.1/QL_DT.pdb
+/home/minlee397/Desktop/QL_DT/obj/Debug/netcoreapp2.1/QL_DT.csprojAssemblyReference.cache
+/home/minlee397/Desktop/QL_DT/obj/Debug/netcoreapp2.1/QL_DT.csproj.CoreCompileInputs.cache
+/home/minlee397/Desktop/QL_DT/obj/Debug/netcoreapp2.1/QL_DT.RazorAssemblyInfo.cache
+/home/minlee397/Desktop/QL_DT/obj/Debug/netcoreapp2.1/QL_DT.RazorAssemblyInfo.cs
+/home/minlee397/Desktop/QL_DT/obj/Debug/netcoreapp2.1/QL_DT.AssemblyInfoInputs.cache
+/home/minlee397/Desktop/QL_DT/obj/Debug/netcoreapp2.1/QL_DT.AssemblyInfo.cs
+/home/minlee397/Desktop/QL_DT/obj/Debug/netcoreapp2.1/QL_DT.RazorTargetAssemblyInfo.cache
+/home/minlee397/Desktop/QL_DT/obj/Debug/netcoreapp2.1/QL_DT.dll
+/home/minlee397/Desktop/QL_DT/obj/Debug/netcoreapp2.1/QL_DT.pdb
