@@ -52,7 +52,7 @@ namespace QL_DT.Controllers
                 _DTContext.SaveChanges();
                 using (HttpClient client = new HttpClient())
                 {
-                    client.BaseAddress = new Uri("http://localhost:8080");
+                    client.BaseAddress = new Uri("http://localhost:8081");
                     MediaTypeWithQualityHeaderValue contentType = new MediaTypeWithQualityHeaderValue("application/json");
                     client.DefaultRequestHeaders.Accept.Add(contentType);
                     var obj = new
